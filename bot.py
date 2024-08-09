@@ -47,4 +47,4 @@ async def verify(interaction: discord.Interaction, role: discord.Role):
     await interaction.response.send_message(embed=embed, view=RoleSelectView(role))
 
 
-client.run("MTI3MTI3NDE3MTc2MjA4NjAyMw.GchckX.YEGaeuLvmm4QMQYiC6szxRUJIs7zcxYMiqHu2E")
+client.run("MTI3MTI3NDE3MTc2MjA4NjAyMw.G9l6Ww.5zi_zOwmuF5sg8glRLrF6c48u6GuGeLSxtqZWI")
